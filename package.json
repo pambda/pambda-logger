@@ -4,7 +4,7 @@
   "description": "Event logger",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
-    "url": "https://github.com/nak2k/pambda-logger/issues"
+    "url": "https://github.com/pambda/pambda-logger/issues"
   },
   "dependencies": {
     "lambda-console": "0.0.2"
@@ -12,7 +12,7 @@
   "devDependencies": {
     "tape": "^4.9.1"
   },
-  "homepage": "https://github.com/nak2k/pambda-logger",
+  "homepage": "https://github.com/pambda/pambda-logger",
   "keywords": [
     "aws",
     "lambda",
@@ -22,7 +22,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nak2k/pambda-logger.git"
+    "url": "git+https://github.com/pambda/pambda-logger.git"
   },
   "scripts": {
     "prepublishOnly": "npm test",
